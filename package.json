@@ -61,11 +61,6 @@
     "vaul": "^0.9.3",
     "zod": "^3.23.8"
   },
-  "overrides": {
-    "react": "$react",
-    "react-dom": "$react-dom",
-    "vite": "$vite"
-  },
   "devDependencies": {
     "@eslint/js": "^9.9.0",
     "@tailwindcss/typography": "^0.5.15",
@@ -84,7 +79,7 @@
     "tailwindcss": "^3.4.11",
     "typescript": "^5.5.3",
     "typescript-eslint": "^8.0.1",
-    "vite": "^6.2.6"
+    "vite": "^5.4.11"
   },
   "main": "eslint.config.js",
   "keywords": [],
